@@ -1,8 +1,8 @@
 # 18F Delivery Assurance Team
 We're a working group of 18F peers allocated in 2-week increments to support 18F, started in Feb 2023. We're focused on organizational improvement and sharing knowledge internally and externally.
 
-Team Lead: Alan Broulette
-Executive Sponsor: Kelsey Foley
+- Team Lead: Alan Broulette
+- Executive Sponsor: Kelsey Foley
 
 ## Priorities
 
