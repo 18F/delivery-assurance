@@ -11,6 +11,8 @@ assignees: ''
 **Business unit and a brief description of the ask**
 A clear and concise description of what the ask is. Ex. $TeamName needs a facilitator for a project reflection 
 
+**Point of contact(s)**
+
 **Describe timeframe help is desired**
 Ex: Wed-Friday of next week
 
@@ -19,6 +21,14 @@ Ex: Wed-Friday of next week
 - [ ] Increase 18F’s operational resilience
 - [ ] Deliver more value to the public through our projects
 
+**Skills needed**
+- [ ] Any human
+- [ ] Design
+- [ ] Content
+- [ ] Engineering
+- [ ] Acquisition
+- [ ] Product
+- [ ] Other
 
 **Additional context**
 Add any other context or screenshots about the help request here.
