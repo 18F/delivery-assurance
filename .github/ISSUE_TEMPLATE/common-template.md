@@ -20,9 +20,30 @@ ex: As an 18F staff member who is going on parental leave, I can navigate to my 
 
 ### Timeline
 
-- [ ] Urgent deadline: Ex. EOD tomorrow (10/10/23)
-- [ ] Time-frame: Ex: Wed-Friday of next week
+Does this need to happen in the next two weeks?
+
+- [ ] Yes
+- [ ] No
+
+How much time do you anticipate this work taking?
 
 ### Additional context
 
-Add any other context or screenshots about the ask.
+**Point of contact on this issue**
+Who can we follow-up with?
+
+**Billable?**
+
+- [ ] Yes
+- [ ] No
+If yes, tock code:
+
+**Skills needed**
+
+- [ ] Any human
+- [ ] Design
+- [ ] Content
+- [ ] Engineering
+- [ ] Acquisition
+- [ ] Product
+- [ ] Other
