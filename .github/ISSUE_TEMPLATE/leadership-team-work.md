@@ -13,7 +13,12 @@ Ex: Tock
 **A brief description of the work**
 A clear and concise description of what the request.
 
-ex: Adding billing line #1810 for extended OOO.
+**Billable?**
+- [ ] Yes
+- [ ] No
+If yes, tock code:
+
+**Point of contact(s)**
 
 **Acceptance Criteria**
 What does "done" look like? 
@@ -28,6 +33,15 @@ ex: As an 18F staff member who is going on parental leave, I can navigate to my 
 - [ ] Know, share, use and evolve our best practices
 - [ ] Increase 18F’s operational resilience
 - [ ] Deliver more value to the public through our projects
+
+**Skills needed**
+- [ ] Any human
+- [ ] Design
+- [ ] Content
+- [ ] Engineering
+- [ ] Acquisition
+- [ ] Product
+- [ ] Other
 
 **Additional context**
 Add any other context or screenshots about the ask.
