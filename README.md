@@ -29,7 +29,7 @@ Work is prioritized by the 18F Leadership Team, based on the priorities listed a
 - **Co-working** - scheduled on an adhoc basis
   - Purpose: do the work, together
 
-If you're onboarding into this team, read [the charter](charter.md) for detailed context
+If you're onboarding into this team, read [the charter](https://github.com/18F/delivery-assurance/blob/main/docs/charter.md) for detailed context
 
 ## Connected repos
 - TBD
