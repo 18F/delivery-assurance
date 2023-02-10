@@ -12,8 +12,8 @@ We're a working group of 18F peers allocated in 2-week increments to support 18F
 
 ## How to request help
 There are 2 ways work is requested.
-1. An issue is generated in [the Delivery Assurance repo](https://github.com/18F/delivery-assurance/issues)
-2. An issue is generated in one of our "connected repos"
+1. Create an issue in [the Delivery Assurance repo](https://github.com/18F/delivery-assurance/issues). **please use the templates**
+2. An issue is generated in one of our "connected repos" ([see below](#connected-repos) for full list)
 
 ## How work is prioritized and managed
 The [Delivery Assurance Shared Project Board](https://github.com/orgs/18F/projects/41) is our main kanban board. It automatically aggregates all issues across the various connected repos into one backlog for prioritization and execution.
@@ -30,3 +30,6 @@ Work is prioritized by the 18F Leadership Team, based on the priorities listed a
   - Purpose: do the work, together
 
 If you're onboarding into this team, read [the charter](charter.md) for detailed context
+
+## Connected repos
+- TBD
