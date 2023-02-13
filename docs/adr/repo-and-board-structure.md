@@ -48,10 +48,7 @@ add it manually. However, this is easy to miss and adds burden to the individual
 issue. Risks include important issues not being added, prioritized, or tracked.
 
 Adding a GitHub action to automatically add issues to the shared Projects board means every
-single issue will be added. This means the Team Lead and Executive Sponsor will have to
-prioritize, and maybe delete some issues from the Projects board that are superfluous in some
-way. Since the team will be doing backlog refinement at the start of every iteration to ensure
-priority and expertise, that seems like a safer way of intaking work from different repos.
+single issue will be added. 
 
 We want to ensure that the Leadership Team does not get bogged down in backlog grooming.
 To mitigate that risk, we want to create an issues template for each anticipated repo that
@@ -59,3 +56,28 @@ includes comprehensive information about what the ask is, what success looks lik
 anticipated time it will take to complete the work. This will also help set individual team
 members up for success in completeing the task without having to chase down additional
 context.
+
+## Risks
+
+Tracking the work on one board while keeping the repos themselves separate has a couple of risks.
+
+### There will be more work than the Delivery Assurance team can handle
+
+Since all the issues will be flowing into the shared Projects board, there will be some issues
+that the team cannot take on.
+
+Mitigation steps:
+The Team Lead and Executive Sponsor will have to prioritize, and maybe delete some
+issues from the Projects board that are superfluous.
+The team will do backlog refinement every two weeks at the start of every iteration
+to ensure priority and expertise, and will remove etraneous work.
+
+### Issue tags cannot be customized at a shared Projects board level
+
+If we want to use tags to organize/communicate meaning, we will have to add those
+tags to every repo that is feeding into the shared board.
+
+Mitigation steps:
+The Delivery Assurance team should develop and document some common tags for use
+across 18F projects in order to increase consistency and better communicate
+across repos.
