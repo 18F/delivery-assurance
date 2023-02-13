@@ -50,7 +50,7 @@ issue. Risks include important issues not being added, prioritized, or tracked.
 Adding a GitHub action to automatically add issues to the shared Projects board means every
 single issue will be added. This means the Team Lead and Executive Sponsor will have to
 prioritize, and maybe delete some issues from the Projects board that are superfluous in some
-way. Since the team will be doing backlog grooming at the start of every iteration to ensure
+way. Since the team will be doing backlog refinement at the start of every iteration to ensure
 priority and expertise, that seems like a safer way of intaking work from different repos.
 
 We want to ensure that the Leadership Team does not get bogged down in backlog grooming.
