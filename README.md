@@ -33,3 +33,6 @@ If you're onboarding into this team, read [the charter](https://github.com/18F/d
 
 ## Connected repos
 - TBD
+
+## Contact Us
+- You can find us in [our slack channel](https://gsa-tts.slack.com/archives/C04MSAWM2GM)
