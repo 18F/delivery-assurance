@@ -59,7 +59,7 @@ This is unsustainable and has resulted in
 agreement.**
 
 ### How we know this team is working
-
+_work in progress_
 | Priority | Goal | We know we’ve succeeded when...|
 |--------|-----|-------|
 | | Work is being completed | Total # of issues “done” <br />Consistent # of issues “done” every 2 weeks|
@@ -95,11 +95,11 @@ agreement.**
 - As a starting point, we are going to staff the DA team in two-week increments.
   - No one will be removed from the DA team during an assigned period, and
   upcoming projects to which DA team members are staffed will need to
-  accommodate this assignment.
+  accommodate this assignment
 - We're going to track this team with [a highly simplified staffing request](https://github.com/18F/staffing/issues?q=is%3Aissue+%2218F+Delivery+Assurance+Team%22):
-  Once a week, Monday or Friday, a list in the repo, e.g. Delivery Assurance Team, Feb 6-16.
+  Once a week, Monday or Friday, a list in the repo, e.g. Delivery Assurance Team, Feb 6-16
 - All of this is subject to rapid and frequent iteration as we figure out better
-  ways to do the work through doing the work.
+  ways to do the work through doing the work
 [Source](https://gsa-tts.slack.com/archives/C0N7543LY/p1674685119082739)
 
 ### How we work together
@@ -108,31 +108,36 @@ As this team is loosely constructed around the work rather than individuals, we
 need to ensure that our work is discoverable and documented. To that end;
 
 - Our slack channel is #18f-da-team (pin this document to the channel)
-- We have a Delivery Assurance [GitHub repo](https://github.com/18F/delivery-assurance)
-  where we will collect all related documents.
 - We have a Delivery Assurance [shared Projects board](https://github.com/orgs/18F/projects/41/views/1).
   This shared projects board pulls in work from Guides & Methods, Tock, other
-  associated repos, and any issues opened in the Delivery Assurance repo.
-  - Priority will be established by leadership
-- Each iteration of the team will likely be different. Each iteration’s work
-  will be determined by the skillset of the current members.
-  - On the first day of the iteration, there will be a backlog prioritization
+  associated repos, and any issues opened in the Delivery Assurance repo
+- We have a Delivery Assurance [GitHub repo](https://github.com/18F/delivery-assurance)
+  where we will collect all related documents
+- All work should be submitted as an issue, either in the Delivery Assurance 
+  Github repo or in one of the associated repos
+- On the first day of the iteration, there will be a backlog prioritization
   session. Alan, along with any team members, will determine what work to do
-  during that iteration and pull it into the to-do column.
+  during that iteration and pull it into the to-do column
+- The Delivery Assurance Lead ensures that all issues are up to date at the 
+  end of 2 weeks and next steps are clearly documented
+- We use issue comments for updates, rolloff, and handoff
+- Each iteration of the team will likely be different. Each iteration’s work
+  will be determined by the skillset of the current members
 
-### How we manage / prioritize work
 
-Work is prioritized by the 18F Leadership Team and aligns with the group’s priorities listed above.
+### How we prioritize work
+
+The 18F Leadership Team prioritizes the work.
 
 The work will be a balance of urgent, incoming asks and non-urgent work that will
 slowly further the long-term priorities of the 18F Leadership team. Types of
 tasks we anticipate this team taking on include:
 
 - Delivery School development
-- Supporting 18F Guides and Methods,
-- Tock feature development,
-- Running data analysis on project reflections, and
-- Other stuff!
+- Supporting 18F Guides and Methods
+- Tock feature development
+- Running data analysis on project reflections
+- Other stuff
 
 | Activity | DA Team | 18F LT | 18F SME | 18F employees|
 |----------|---------|--------|---------|--------------|
@@ -140,53 +145,21 @@ tasks we anticipate this team taking on include:
 |2-week planning | Driver/Approver | Consulted | Informed | Informed |
 |Execution / Delivery | Driver | Informed | Approver | Informed |
 
-### Assigning work
-
-- Co-own work, especially if many people are excited
-  - Avoid “the last mozzarella stick” effect
-- Pitch in the grunt and glue work
-
 ### How we communicate
 
 - Onboarding is this document!
 - A daily check-in to see faces, communicate about work-in-flight, and bring
-  up any foreseeable risks or blockers.
+  up any foreseeable risks or blockers
 - Any important news or information disseminated in meetings should be added
-  to the slack channel for reference purposes.
+  to the slack channel for reference purposes
 - Communicating early and often in #18f-da-team will be really important,
-  especially as we get into a cadence of intaking leadership priorities.
+  especially as we get into a cadence of intaking leadership priorities
 - Regular retros are difficult because of the impermanence of the team, but it
   is still important to document successes and failures in able to learn and
-  grow from them.
+  grow from them
   - Exit survey?
   - Something else?
 
-### How we document and transition
-
-- All work will be documented as an issue and pulled into the [shared Projects board](https://github.com/orgs/18F/projects/41/views/1).
-- Draft documentation can be temporarily hosted in [Google Drive](https://drive.google.com/drive/folders/1ik7qWIZaDA-GpJmkSy6BmcNIznCnWB65?usp=share_link)
-- Label [DRAFTS] appropriately and add Front Matter for posterity (background,
-  goals, who’s worked on this, etc.)
-- Upon completion documentation should be moved to the relevant folder for
-  posterity, or archived in Google Drive.
-- All work requests are documented as an issue
-  - [Template](TBD) includes:
-    - Title
-    - Description
-      - Related issues
-    - How it maps to org priorities
-    - Definition of Done (checklist)
-    - Important links
-    - Important dates
-    - People involved
-      - Approver
-    - Why is this important?
-  - Tags:
-    - Priority: High, Medium, Low
-    - Experience needed: Eng, Design, Acq, Product, AM, Operations
-  - Owner closes and cleans up all issues at the end of 2 weeks
-    - Owner ensures that next steps are clearly documented
-- Use issue comments for updates, rolloff, and handoff
 
 ### Ceremonies and Rituals
 
