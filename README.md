@@ -1,17 +1,11 @@
 # 18F Delivery Assurance Team
 - This is a revolving team between projects staffed in 2-week increments, based on availability
-- This team is predomninantly an "operation and maintenance team" that takes on work based on size, impact, urgency
+- This team is predomninantly an "operation and maintenance team" for 18F-owned products and projects that takes on work based on size, impact, urgency
 - There is no guarantee that this team is staffed every 2 weeks, so there is no guarantee on delivery until it's been prioritized
 
 ## Stakeholders
 - Team Lead: Alan Broulette
 - Executive Sponsor: Kelsey Foley
-
-## Priorities
-
-- Work should correlate to the ranking priorities (bets) of our vision
-- Work should prioritize 18F urgent and impactful needs first
-- Work cannot be associated with a project without compensation or an agreement
 
 ## How to request help
 There are 2 ways work is requested.
@@ -23,7 +17,12 @@ There are 2 ways work is requested.
 ## How work is prioritized, assigned, and managed
 The [Delivery Assurance Shared Project Board](https://github.com/orgs/18F/projects/41) is our main kanban board. It automatically aggregates all issues across the various connected repos into one backlog for prioritization and execution.
 
-Work is prioritized by the 18F Leadership Team, based on the priorities listed above.
+Work is prioritized by the 18F Leadership Team, based on the following priorities:
+- ≤ 2 weeks
+- Correlation to the ranking priorities (bets) of our vision
+- Urgency and impact
+
+Work cannot be associated with a project without compensation or an agreement.
 
 ## Ceremonies and Rituals
 
