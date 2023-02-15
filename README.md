@@ -19,10 +19,19 @@ The [Delivery Assurance Shared Project Board](https://github.com/orgs/18F/projec
 
 Work is prioritized by the 18F Leadership Team, based on the following priorities:
 - ≤ 2 weeks
-- Correlation to the ranking priorities (bets) of our vision
+- Correlation to the ranking priorities (bets) of our vision (deliver to the public, increase knowledge sharing, improve operational resilience)
 - Urgency and impact
 
 Work cannot be associated with a project without compensation or an agreement.
+
+Example from Feb 2023
+| Work | Priority |
+|--------|-----|
+| Content guide was down | Urgent |
+| Weekly billing tock bugs | High |
+| Delivery School curriculum support | Medium |
+| Project reflections | Medium |
+| Project or practice blog posts | Low |
 
 ## Ceremonies and Rituals
 
