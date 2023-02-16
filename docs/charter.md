@@ -9,15 +9,15 @@ of those bets was to “create more value for the partners, GSA, practitioners,
 and our own staff if we can share learning from projects more effectively.”
 
 Included in that bet was creating a Delivery Assurance Team to channel efforts
-of folks not on project teams towards increasing teaching and learning to 18F,
+of folks not on billable project teams towards increasing teaching and learning to 18F,
 practitioners, and the public.
 
 ### Problem Statement
 
 In the past knowledge sharing and support work was done by 18F employees between
 projects. Before being staffed to another project, individuals would identify a
-need or a key lesson learned on a project and invest effort pursuing that
-subject matter. This method for knowledge sharing and support is completely
+need or a key lesson learned on a project and invest effort in capturing these lessons 
+learned for the benefit of future project teams. This method for knowledge sharing and support is completely
 dependent on the ambition and tenacity of individuals and it was often
 uncoordinated.
 
@@ -28,27 +28,13 @@ This is unsustainable and has resulted in
 - Problems that aren’t fully resolved or supported by the organization
 - Lack of organization and consistent institutional memory
 
-### What this is
-
-- A working group of 18F peers allocated in 2-week increments to support 18F
-- Focused on organizational improvement and sharing knowledge internally and
-  externally
-
-### What this isn’t
-
-- A guild, collective, or community of practice
-- A billable project. Billable work takes priority over this. Staffing may
-  draft you to a billable team at any time.
-  - This means documentation is key so someone else can pick up work you may
-  need to abruptly put down.
-
 ### Priorities
 
 **Work should correlate to the ranking priorities (bets) of our vision:**
 
+- Deliver more value to the public through our projects
 - Know, share, use and evolve our best practices
 - Increase 18F’s operational resilience
-- Deliver more value to the public through our projects
 
 **Work should prioritize 18F urgent and impactful needs first, such as:**
 
@@ -63,9 +49,9 @@ _work in progress_
 | Priority | Goal | We know we’ve succeeded when...|
 |--------|-----|-------|
 | | Work is being completed | Total # of issues “done” <br />Consistent # of issues “done” every 2 weeks|
-|| As a Delivery Assurance Team member, I know that I’m doing important work | Total # of issues tagged with “High or Medium importance” done <br /> Exit survey responses - positive sentiment|
-|| As an 18F LT member, I can better delegate and make improvements to our organization||
-|| As an 18F employee, I can advocate for work that I feel is important| Total # of issues submitted by 18F employees|
+|| As a Delivery Assurance Team member, I know that I’m doing work that is important to 18F | Total # of issues tagged with “High or Medium importance” done <br /> Exit survey responses - positive sentiment|
+|| As an 18F LT member, I can better delegate and make improvements to our organization|TBD|
+|| As an 18F employee, I can advocate for work that I feel is important|TBD|
 
 ### Risks and considerations
 
@@ -74,10 +60,40 @@ _work in progress_
 - Rushed delivery or handoff could perpetuate google drive disorganization or
   redundancy of work
 
+### Roles and responsibilities
+
+#### Executive Sponsor
+- Currently: Kelsey Foley
+- Accountable for facilitating planning and prioritization of work every 2 weeks
+- Responsible for getting decisions made across Leadership or strategic blockers, unblocked
+
+#### Team Lead
+- Currently: Alan Brouilette
+- Acts as consistent, point of content for DA Team across 18F
+- Accountable for successful onboarding of new team members
+- Accountable for facilitating planning and prioritization of work every 2 weeks
+- Responsible for making sure requests are accurately documented and tagged, in order to be considered
+- Responsible for making sure project board is up to date prior to planning and staffing
+- Facilitates assignments, check-ins and unblocks tasks
+
+#### DA Team member
+- Accountable for the work they’ve accepted
+- Accountable for upholding team principles
+- Responsible for making sure issues are up to date
+- Responsible for documenting work for handoff
+
+#### Subject Matter Expert
+- Examples: Tock, Guides, Methods, Site Owners 
+- Accountable for submitting requests with necessary information 
+- Accountable for subject matter decisions: commits, rollout, etc
+- Responsible for introductions or access to necessary tools
+- Consulted for background, context, and other discovery areas
+
+
 ### Stakeholders
 
 - 18F Leadership Team
-  - Owner: Alan Broulette
+  - Owner: Alan Brouilette
   - Executive Sponsor: Kelsey Foley
 - 18Fc Subject Matter Experts (SME) of the work that’s being considered:
   - System owners for bug fixes or documentation
@@ -88,7 +104,7 @@ _work in progress_
 
 ### How are people staffed to this team
 
-- Comprised of 18F ICs who are 100% available and unassigned to a project.
+- Comprised of 18F staff who are 100% available and unassigned to a project.
 - We will not be staffing (at first): 
   - Supervisors, as they are 50% available
   - New hires within first 2 weeks
@@ -115,9 +131,11 @@ need to ensure that our work is discoverable and documented. To that end;
   where we will collect all related documents
 - All work should be submitted as an issue, either in the Delivery Assurance 
   Github repo or in one of the associated repos
-- On the first day of the iteration, there will be a backlog prioritization
-  session. Alan, along with any team members, will determine what work to do
-  during that iteration and pull it into the to-do column
+- Prior to the next 2-week sprint, 18F Leadership members and the Team Lead will get
+  together to write out [goals](https://github.com/18F/delivery-assurance/blob/main/docs/goals.md), project team make-up, and refine the backlog
+- On the first day of the sprint, there will be a backlog prioritization
+  session. The delivery assurance team will determine what work to do
+  during that sprint and pull it into the Ready column
 - The Delivery Assurance Lead ensures that all issues are up to date at the 
   end of 2 weeks and next steps are clearly documented
 - We use issue comments for updates, rolloff, and handoff
@@ -157,13 +175,11 @@ tasks we anticipate this team taking on include:
 - Regular retros are difficult because of the impermanence of the team, but it
   is still important to document successes and failures in able to learn and
   grow from them
-  - Exit survey?
-  - Something else?
-
+  - TBD: Exit survey / Demo
 
 ### Ceremonies and Rituals
 
-- Daily Check-In - 12pm EST, 9am PST every week day
+- Daily Check-In - 12pm EST, 9am PST every week day (for now)
   - Purpose: TBD, semi-stand up, access to leadership on background or
   decisions, task management
 - Co-working - scheduled on an adhoc basis
@@ -171,6 +187,12 @@ tasks we anticipate this team taking on include:
 
 ### Principles
 
+- Work in the open.
+- Understand we are building this as we go
+- Avoid edge casing
+- Always be thinking about documentation
+- Ask questions
+- Don't borrow trouble from next week
 - Golden Rule: Document unto others as you would have them document unto you
 - Find a co-owner, don’t work by yourself
   - Minimum: All work should be peer-reviewed by another DA team member
