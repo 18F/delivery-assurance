@@ -68,7 +68,7 @@ _work in progress_
 - Responsible for getting decisions made across Leadership or strategic blockers, unblocked
 
 #### Team Lead
-- Currently: Alan Broullette
+- Currently: Alan Brouilette
 - Acts as consistent, point of content for DA Team across 18F
 - Accountable for successful onboarding of new team members
 - Accountable for facilitating planning and prioritization of work every 2 weeks
@@ -93,7 +93,7 @@ _work in progress_
 ### Stakeholders
 
 - 18F Leadership Team
-  - Owner: Alan Broulette
+  - Owner: Alan Brouilette
   - Executive Sponsor: Kelsey Foley
 - 18Fc Subject Matter Experts (SME) of the work that’s being considered:
   - System owners for bug fixes or documentation
