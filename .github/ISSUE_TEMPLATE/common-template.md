@@ -6,8 +6,16 @@ labels: ''
 assignees: ''
 
 ---
+### A description of the work
+
+A clear and concise description of what the work entails.
+
 **Point of contact on this issue**
 Who can we follow-up with if we have questions?
+
+### Reproduction steps (if necessary)
+
+Be as specific as possible
 
 **Billable?**
 
@@ -32,14 +40,6 @@ Does this need to happen in the next two weeks?
 - [ ] No
 
 How much time do you anticipate this work taking?
-
-### A description of the work
-
-A clear and concise description of what the work entails.
-
-### Reproduction steps (if necessary)
-
-Be as specific as possible
 
 ### Acceptance Criteria
 
