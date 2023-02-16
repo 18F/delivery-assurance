@@ -12,7 +12,7 @@ We're a working group of 18F peers allocated in 2-week increments to support 18F
 
 ## How to request help
 There are 2 ways work is requested.
-1. Create an issue in [the Delivery Assurance repo](https://github.com/18F/delivery-assurance/issues). **please use the templates**
+1. Create an issue in [the Delivery Assurance repo](https://github.com/18F/delivery-assurance/issues). **Please use the templates**
 2. An issue is generated in one of our "connected repos" ([see below](#connected-repos) for full list)
 
 ## How work is prioritized, assigned, and managed
@@ -31,8 +31,16 @@ Work is prioritized by the 18F Leadership Team, based on the priorities listed a
 
 If you're onboarding into this team, read [the charter](https://github.com/18F/delivery-assurance/blob/main/docs/charter.md) for detailed context
 
+## Documentation and links
+- [DA shared project board](https://github.com/orgs/18F/projects/41)
+- [Weekly ship](https://docs.google.com/document/d/1bJOvlXDplXl6Fjh9dWKENXCFaKzYCpJwEVYd-5B2bmc/edit?usp=sharing)
+- [Ongoing notes](https://docs.google.com/document/d/1BcGjZjQs0IBm-LHaGp0Jj9LOBE9bUsAGuAYcoup05R0/edit?usp=sharing): Current running doc of meeting notes, daily stand-ups, discussions
+- [Open question board](https://docs.google.com/spreadsheets/d/1J8cAcuE2zgpIFSJx_mKOjNmAcQGeYtQbz2vkTuqGI4U/edit?usp=share_link): Ongoing collection of questions and risks on DA process
+- Feedback synthesis: TBD, running document of feedback collected from various teams or stakeholders
+
 ## Connected repos
 - TBD
+
 
 ## Contact Us
 - You can find us in [our slack channel](https://gsa-tts.slack.com/archives/C04MSAWM2GM)
