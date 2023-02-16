@@ -28,8 +28,9 @@ Example from Feb 2023
 | Work | Priority |
 |--------|-----|
 | Content guide was down | Urgent |
-| Weekly billing tock bugs | High |
-| Delivery School curriculum support | Medium |
+| Weekly billing tock and accessibility bugs | High |
+| Guides and Methods support | High |
+| Delivery School curriculum support | High |
 | Project reflections | Medium |
 | Project or practice blog posts | Low |
 
