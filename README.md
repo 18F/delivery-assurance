@@ -38,9 +38,15 @@ If you're onboarding into this team, read [the charter](https://github.com/18F/d
 - [Open question board](https://docs.google.com/spreadsheets/d/1J8cAcuE2zgpIFSJx_mKOjNmAcQGeYtQbz2vkTuqGI4U/edit?usp=share_link): Ongoing collection of questions and risks on DA process
 - Feedback synthesis: TBD, running document of feedback collected from various teams or stakeholders
 
+## Code review
+- Pull Requests should have at least one member of this team approve it in order for merge
+- Try to have another Engineer look at any tech-heavy PR’s
+- It’s helpful to call out in the PR description why someone has been requested for review and to point them towards specific things to look at. 
+- When commenting on PR’s as a reviewer, it’s helpful to specify whether your comment is blocking or non-blocking for approval. You can use [Conventional Comments Syntax](https://conventionalcomments.org/) for this if you’d like to 
+- Once the PR has been approved, merging can be done by either the reviewer or the submitter, so we don’t have mergeable code waiting around for too long
+
 ## Connected repos
 - TBD
-
 
 ## Contact Us
 - You can find us in [our slack channel](https://gsa-tts.slack.com/archives/C04MSAWM2GM)
