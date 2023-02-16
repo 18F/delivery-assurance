@@ -132,7 +132,7 @@ need to ensure that our work is discoverable and documented. To that end;
 - All work should be submitted as an issue, either in the Delivery Assurance 
   Github repo or in one of the associated repos
 - Prior to the next 2-week sprint, 18F Leadership members and the Team Lead will get
-  together to write out [goals](url), project team make-up, and refine the backlog
+  together to write out [goals](https://github.com/18F/delivery-assurance/blob/main/docs/goals.md), project team make-up, and refine the backlog
 - On the first day of the sprint, there will be a backlog prioritization
   session. The delivery assurance team will determine what work to do
   during that sprint and pull it into the Ready column
