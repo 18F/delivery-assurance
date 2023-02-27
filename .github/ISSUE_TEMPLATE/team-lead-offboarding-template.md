@@ -1,7 +1,7 @@
 ---
 name: Team Lead offboarding template 
-about: Internal template for the DA Team Lead to use for offboarding a new team member
-title: 'Offboarding Cohort from the Delivery Assurance Team'
+about: Internal template for the DA Team Lead to use for offboarding a new cohort
+title: 'Offboarding Cohort [Dates] from the Delivery Assurance Team'
 labels: ''
 assignees: ''
 
