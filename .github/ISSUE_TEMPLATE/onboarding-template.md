@@ -1,6 +1,6 @@
 ---
 name: Onboarding template 
-about: Template to be used to onboard a new team member
+about: Internal template to be used to onboard a new team member
 title: 'Onboarding [Name] to the Delivery Assurance Team'
 labels: ''
 assignees: ''
