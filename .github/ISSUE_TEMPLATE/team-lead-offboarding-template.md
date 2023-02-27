@@ -14,6 +14,7 @@ As team members offboard from this past cohort, below is a list of things to do 
 @abrouilette 
 
 **Offboarding Checklist**
+- [ ] **Create offboarding tickets for each team member**
 - [ ] **Review in-progress tickets:** Check that necessary information, links, and next steps are clear. Make sure the status of the ticket is accurate.
 - [ ] **Update Access to Github Repos:** Review access to repos and update accordingly.
 - [ ] **Send a note of appreciation:** Acknowledge the work and progress the individuals on the cohort made.
