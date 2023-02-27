@@ -9,7 +9,7 @@ assignees: ''
 ### A description of the work
 A clear and concise description of what the work entails.
 
-**Point of contact on this issue**
+### Point of contact on this issue
 Who can we follow-up with if we have questions?
 
 ### Reproduction steps (if necessary)
