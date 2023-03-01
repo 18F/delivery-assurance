@@ -4,7 +4,7 @@
 
 ### Background
 
-In Dec 2022, 18F leadership laid out a strategic plan with 3 focused bets. One
+In [Dec 2022](https://docs.google.com/presentation/d/1JW0oLQs0gZgK99286AP0hGkdRvKsDzqOWN3QlfOrvXw/edit#slide=id.g1bfeff297f0_0_1642), 18F leadership laid out a strategic plan with 3 focused bets. One
 of those bets was to “create more value for the partners, GSA, practitioners,
 and our own staff if we can share learning from projects more effectively.”
 
