@@ -52,6 +52,7 @@ If you're onboarding into this team, read [the charter](https://github.com/18F/d
 - [Ongoing notes](https://docs.google.com/document/d/1BcGjZjQs0IBm-LHaGp0Jj9LOBE9bUsAGuAYcoup05R0/edit?usp=sharing): Current running doc of meeting notes, daily stand-ups, discussions
 - [Open question board](https://docs.google.com/spreadsheets/d/1J8cAcuE2zgpIFSJx_mKOjNmAcQGeYtQbz2vkTuqGI4U/edit?usp=share_link): Ongoing collection of questions and risks on DA process
 - Feedback synthesis: TBD, running document of feedback collected from various teams or stakeholders
+- The current team members are in the [18F Delivery Assurance GitHub team](https://github.com/orgs/18F/teams/18f-delivery-assurance/members)
 
 ## Code review
 - Pull Requests should have at least one member of this team approve it in order for merge
