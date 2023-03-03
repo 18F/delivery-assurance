@@ -44,9 +44,10 @@ Example from Feb 2023
 - **Co-working** - scheduled on an adhoc basis
   - Purpose: do the work, together
 
-If you're onboarding into this team, read [the charter](https://github.com/18F/delivery-assurance/blob/main/docs/charter.md) for detailed context
+.
 
 ## Documentation and links
+- [Onboarding and Offboarding checklists](https://github.com/18F/delivery-assurance/main/docs/onboarding-offboarding-checklists.md)
 - [DA shared project board](https://github.com/orgs/18F/projects/41)
 - [Weekly ship](https://docs.google.com/document/d/1bJOvlXDplXl6Fjh9dWKENXCFaKzYCpJwEVYd-5B2bmc/edit?usp=sharing)
 - [Ongoing notes](https://docs.google.com/document/d/1BcGjZjQs0IBm-LHaGp0Jj9LOBE9bUsAGuAYcoup05R0/edit?usp=sharing): Current running doc of meeting notes, daily stand-ups, discussions
