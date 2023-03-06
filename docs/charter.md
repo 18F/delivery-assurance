@@ -184,6 +184,12 @@ tasks we anticipate this team taking on include:
   decisions, task management
 - Co-working - scheduled on an adhoc basis
   - Purpose: do the work, together
+- Demos
+  - Demos are presented in Team Coffee as a segment within the LT updates ([draft deck](https://docs.google.com/presentation/d/1uCIU6xCtfE0l5_dzBsIFlyL3144cCBd2qNBuI0Hwb7w/edit#slide=id.g5ecdbbee9e_0_0))
+- Retros
+  - We are hosting retros for the first 3-6 months, once a month with all cohorts in order to get feedback on the DA Team
+  - In addition and beyond that, we created an [exit survey](https://docs.google.com/forms/d/1IqXybM5owkAmFEsBH8dtaNKKcmNRu_yYE1-NVkkZPrA/edit) for all team members to fill out as part of offboarding
+  - [Feedback](https://docs.google.com/spreadsheets/d/1ELbEt_7O4IvkJUKn8IO4TXNeR_PeEhgB3FbG2hAsJoM/edit?resourcekey#gid=552990935) should be reviewed regularly by the team lead
 
 ### Principles
 
