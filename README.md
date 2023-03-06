@@ -1,6 +1,6 @@
 # 18F Delivery Assurance Team
+- The Delivery Assurance Team is a self-organizing team focused on the operation and maintenance of 18F, supporting our products, processes, and teams. (see [intro deck from 3/3/23 team coffee](https://docs.google.com/presentation/d/1NSmRKW_5Krg3DhCYU_6xSTn0fCYgN6KtLcvUJRnUquQ/edit#slide=id.g5ecdbbee9e_0_0))
 - This is a revolving team between projects staffed in 2-week increments, based on availability
-- This team is predomninantly an "operation and maintenance team" for 18F-owned products and projects that takes on work based on size, impact, urgency
 - There is no guarantee that this team is staffed every 2 weeks, so there is no guarantee on delivery until it's been prioritized
 
 
