@@ -2,7 +2,7 @@
 name: Epic
 about: Propose a long-term initiative for the DA Team, maximum 3 months.
 title: ''
-labels: 'Epic'
+labels: 'epic'
 assignees: ''
 
 ---
